@@ -23,8 +23,8 @@ SMOTE
 
 ---- Dimensionality Reduction ---
 
-SVD
-PCA
+1. SVD
+2. PCA
 
 --- Algorithm Experimented ---
 
