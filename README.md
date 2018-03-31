@@ -12,27 +12,31 @@ The surveys used to come from three developing countries. Each country offers a 
 
 --- Data Preprocessing ---
 
-Standardization
-Encoding
-Column Enforcement in train and test set
-Replacing missing values
---- Sampling ----
+1. Standardization
+2. Encoding
+3. Column Enforcement in train and test set
+4. Replacing missing values
+
+--- Sampling ---
 
 SMOTE
+
 ---- Dimensionality Reduction ---
 
 SVD
 PCA
------ Algorithm Experimented ----
 
-Random Forest
-Logistic Regression
-AdaBoost Classifier
-Gradient Boosting
-Decision Tree
-Gaussian NB
-Extra Tree Classifier
-XGBoost
----- Winning Algorithm ----
+--- Algorithm Experimented ---
+
+1. Random Forest
+2. Logistic Regression
+3. AdaBoost Classifier
+4. Gradient Boosting
+5. Decision Tree
+6. Gaussian NB
+7. Extra Tree Classifier
+8. XGBoost
+
+--- Winning Algorithm ---
 
 XGBoost without any sampling or dimensionality reduction
